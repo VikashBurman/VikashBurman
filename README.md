@@ -1,3 +1,5 @@
+<h1 align="center">Hi, I'm Vikash Burman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 [![MasterHead](/github-header-image.png)](https://rishavchanda.io)
 
 <!-- <h1 align="center">Hi 👋, I'm Vikash Burman</h1> -->
@@ -8,13 +10,15 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VikashBurman" alt="VikashBurman" /></a> </p> -->
 
-- 👨‍💻 All of my projects are available at [Portfolio-website](https://vikashburman.vercel.app/)
+- 👨‍💻 You Can Visit My Website [Vikash_Burman](https://vikashburman.vercel.app/)
+
+- :school: I am a `MCA Student` from the [Computer Science Department](https://www.nitjsr.ac.in/departments/cs) at [NIT Jamshedpur](https://www.nitjsr.ac.in/).
 
 - 📫 How to reach me **vikasburman37@gmail.com**
 
-- 📄 Know about my experiences [Vikash_Burman_Resume](https://vkumar8192449.github.io/Portfolio-website/Vinay_Kumar_Resume.pdf)
+- 📄 Know about my experiences [My_Resume](https://vkumar8192449.github.io/Portfolio-website/Vinay_Kumar_Resume.pdf)
 
-- I believe in the power of code to drive innovation and solve real-world problems. With a strong foundation in both front-end aesthetics and back-end functionality
+- I believe in the power of code to drive innovation and solve real-world problems.
 
 <!-- <hr/> -->
 <br>
