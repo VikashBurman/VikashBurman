@@ -14,13 +14,13 @@
 
 - 📄 Know about my experiences [Vikash_Burman_Resume](https://vkumar8192449.github.io/Portfolio-website/Vinay_Kumar_Resume.pdf)
 
-- 
+- I believe in the power of code to drive innovation and solve real-world problems. With a strong foundation in both front-end aesthetics and back-end functionality
 
 <!-- <hr/> -->
 <br>
 <br>
 
-# 🌐 Socials:
+# 🌐Coding Profiles:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/vikash-burman-33517824a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VikashBurman" height="30" width="40" /></a>
