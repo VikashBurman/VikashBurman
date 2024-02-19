@@ -10,13 +10,13 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VikashBurman" alt="VikashBurman" /></a> </p> -->
 
-- 👨‍💻 You Can Visit My Website [Vikash_Burman](https://vikashburman.vercel.app/)
+- 👨‍💻 You Can Visit [My_Website](https://vikashburman.vercel.app/)
 
 - :school: I am a `MCA Student` from the [Computer Science Department](https://www.nitjsr.ac.in/departments/cs) at [NIT Jamshedpur](https://www.nitjsr.ac.in/).
 
 - 📫 How to reach me **vikasburman37@gmail.com**
 
-- 📄 Know about my experiences [My_Resume](https://vkumar8192449.github.io/Portfolio-website/Vinay_Kumar_Resume.pdf)
+- 📄 Know about my experiences [My_Resume](https://vikashburman.vercel.app/assets/Vikash_Resume-HGcXX62W.pdf)
 
 - I believe in the power of code to drive innovation and solve real-world problems.
 
@@ -26,12 +26,12 @@
 
 # 🌐Coding Profiles:
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/vikash-burman-33517824a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VikashBurman" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerrank.com/vkumar8192449" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vkumar8192449" height="30" width="40" /></a> -->
-<a href="https://codeforces.com/profile/VikashBurman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vkumar8192449" height="30" width="40" /></a>
-<a href="https://leetcode.com/VikashBurman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vkumar8192449" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vikasburman091/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vkumar8192449/profile" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/VikashBurman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Vikashburman" height="30" width="40" /></a>
+<a href="https://leetcode.com/VikashBurman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vikashburman" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vikasburman091/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="VikashBurman/profile" height="30" width="40" /></a>
 </p>
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
