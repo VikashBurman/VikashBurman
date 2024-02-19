@@ -59,8 +59,7 @@
 <p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=VikashBurman&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/></p>
 
 <p align="center">
-<!--     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="VikashBurman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VikashBurman&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a> -->
-	<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViakshBurman&show_icons=true&locale=en&layout=compact" alt="vishu567" /></p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="VikashBurman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VikashBurman&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VikashBurman&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="vkumar8192449" height="230px"/>
 <br/>
