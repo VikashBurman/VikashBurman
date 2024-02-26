@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Vikash Burman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![MasterHead](/github-header-image.png)](https://rishavchanda.io)
 
 <!-- <h1 align="center">Hi 👋, I'm Vikash Burman</h1> -->
 <!-- <h3 align="center">A passionate MERN stack developer based in India.</h3> -->
