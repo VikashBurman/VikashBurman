@@ -8,7 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VikashBurman&label=Profile%20views&color=blueviolet&style=flat" alt="VikashBurman" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VikashBurman" alt="VikashBurman" /></a> </p> -->
-
 - 👨‍💻 You Can Visit [My_Website](https://vikashburman.vercel.app/)
 
 - :school: I am a `MCA Student` from the [Computer Science Department](https://www.nitjsr.ac.in/departments/cs) at [NIT Jamshedpur](https://www.nitjsr.ac.in/).
@@ -46,8 +45,6 @@
 
 # 📊 GitHub Stats:
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VikashBurman&bg_color=1a1b27&color=react&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
