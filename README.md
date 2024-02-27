@@ -51,7 +51,7 @@
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikashBurman&theme=tokyonight" alt="VikashBurman" height="200px"/></a>
+	    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikashBurman&theme=react" alt="VikashBurman" height="200px"/></a>
 <br/>
 
 
