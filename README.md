@@ -47,7 +47,7 @@
 # 📊 GitHub Stats:
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VikashBurman&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VikashBurman&bg_color=1a1b27&color=react&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
