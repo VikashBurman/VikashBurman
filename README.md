@@ -17,12 +17,11 @@
 - 📄 Know about my experiences [My_Resume](https://vikashburman.vercel.app/assets/Vikash_Resume-HGcXX62W.pdf)
 
 - I believe in the power of code to drive innovation and solve real-world problems.
-  
+  <br>
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&animation=grow_out_in&quoteCategory=programming">
 </p>
-<!-- <hr/> -->
-<br>
+<hr/>
 <br>
 
 <!--# 🌐Coding Profiles:
