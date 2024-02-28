@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **vikasburman37@gmail.com**
 
-- 📄 Know about my experiences [My_Resume](https://vikashburman.vercel.app/assets/Vikash_Resume-HGcXX62W.pdf)
+- 📄 Know about my experiences [My_Resume](https://vikashburman.vercel.app/assets/Vikash_Resume.pdf)
 
 - I believe in the power of code to drive innovation and solve real-world problems.
   <br>
