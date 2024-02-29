@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Vikash Burman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
 <!-- <h1 align="center">Hi 👋, I'm Vikash Burman</h1> -->
 <!-- <h3 align="center">A passionate MERN stack developer based in India.</h3> -->
 <img align="right" alt="Coding" width="400" src="/UI-Developer-unscreen.gif">
@@ -8,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VikashBurman&label=Profile%20views&color=blueviolet&style=flat" alt="VikashBurman" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VikashBurman" alt="VikashBurman" /></a> </p> -->
-- 👨‍💻 You Can Visit [My_Website](https://vikashburman.vercel.app/)
+- 👨‍💻 You Can Visit [My_Website](https://vikash-burman.netlify.app/)
 
 - :school: I am a `MCA Student` from the [Computer Science Department](https://www.nitjsr.ac.in/departments/cs) at [NIT Jamshedpur](https://www.nitjsr.ac.in/).
 
