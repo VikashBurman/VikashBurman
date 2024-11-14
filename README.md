@@ -43,15 +43,12 @@
 
 <br>
 <br>
-
+<!--
 # 📊 GitHub Stats:
-
-
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikashBurman&theme=react" alt="VikashBurman" height="200px"/></a>
 <br/>
-
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="VikashBurman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VikashBurman&show_icons=true&count_private=true&locale=en&theme=react&layout=compact" height="230px"/>
@@ -61,3 +58,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VikashBurman&langs_count=10&show_icons=true&locale=en&theme=react" alt="vkumar8192449" height="230px"/>
 	</p>
 <br/>
+-->
