@@ -11,7 +11,7 @@
 ---
 
 - 👨‍💻 Currently working as a **Junior Software Developer at GoTrust**, building secure REST APIs, audit systems, and automation tools.
-- 🏫 Pursuing **MCA** from **NIT Jamshedpur**, Computer Science Department.
+- 🎓 MCA Graduate from NIT Jamshedpur, Computer Science Department.
 - 🌐 Built full-stack projects like [MockMasters](https://mockmasters.vercel.app/) and [QuickMatch](https://github.com/VikashBurman/devTinder-Backend).
 - ⚙️ Passionate about scalable backend systems, React frontends, and dev tools like Keycloak, SigNoz, and JMeter.
 - 📫 Reach me at **vikashburman.info@gmail.com**
