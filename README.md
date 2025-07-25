@@ -11,9 +11,9 @@
 
 - :school: I am a `MCA Student` from the [Computer Science Department](https://www.nitjsr.ac.in/departments/cs) at [NIT Jamshedpur](https://www.nitjsr.ac.in/).
 
-- 📫 How to reach me **vikasburman37@gmail.com**
+- 📫 How to reach me **vikashburman.info@gmail.com**
 
-- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1OU6P1dj8TatnkAThv5jKswLDWl70D0EM/view?usp=sharing)
+- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1O1iDXsJkTsd_WEVsakMjacy3Lg_MFLzF/view?usp=sharing)
 
 - I believe in the power of code to drive innovation and solve real-world problems.
   <br>
