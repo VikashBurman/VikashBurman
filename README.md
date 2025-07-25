@@ -33,19 +33,20 @@
 <!-- 🌐 Coding Profiles -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vikashburman/" target="blank">
+  <a href="https://www.linkedin.com/in/vikashburman/" target="blank" style="margin: 0 10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://codeforces.com/profile/VikashBurman" target="blank">
+  <a href="https://codeforces.com/profile/VikashBurman" target="blank" style="margin: 0 10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40"/>
   </a>
-  <a href="https://leetcode.com/VikashBurman/" target="blank">
+  <a href="https://leetcode.com/VikashBurman/" target="blank" style="margin: 0 10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/vikasburman091" target="blank">
+  <a href="https://auth.geeksforgeeks.org/user/vikasburman091" target="blank" style="margin: 0 10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40"/>
   </a>
 </p>
+
 
 <br/><br/>
 
