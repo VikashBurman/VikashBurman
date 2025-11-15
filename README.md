@@ -25,7 +25,7 @@
 > I believe in the power of code to drive innovation and solve real-world problems.
 
 <br/>
-
+<hr>
 <!-- <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&animation=grow_out_in&quoteCategory=programming"/>
