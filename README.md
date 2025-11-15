@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vikash Burman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
 
-<h3 align="center">🚀 Full Stack Developer | Junior Software Developer at GoTrust | MCA @ NIT Jamshedpur</h3>
+<h3 align="center">Full Stack Developer | Backend Developer Intern @ GoTrust (Apr–Jul 2025) | MCA @ NIT Jamshedpur</h3>
 
 <img align="right" alt="Coding" width="400" src="/UI-Developer-unscreen.gif">
 
@@ -10,7 +10,11 @@
 
 ---
 
-- 👨‍💻 Currently working as a **Junior Software Developer at GoTrust**, building secure REST APIs, audit systems, and automation tools.
+- 💼 Former **Backend Developer Intern at GoTrust**, where I:
+  - Built secure RESTful APIs using Keycloak & PostgreSQL
+  - Developed audit logging systems for 1000+ users
+  - Automated payroll & lifecycle tracking using cron jobs
+  - Tested & optimized 15+ backend APIs using JMeter & SigNoz
 - 🎓 MCA Graduate from NIT Jamshedpur, Computer Science Department.
 - 🌐 Built full-stack projects like [MockMasters](https://mockmasters.vercel.app/) and [QuickMatch](https://github.com/VikashBurman/devTinder-Backend).
 - ⚙️ Passionate about scalable backend systems, React frontends, and dev tools like Keycloak, SigNoz, and JMeter.
