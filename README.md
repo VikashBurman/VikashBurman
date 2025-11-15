@@ -32,8 +32,6 @@
   </a>
 </p> -->
 
-<hr/>
-
 <!-- 🌐 Coding Profiles -->
 
 <p align="center">
